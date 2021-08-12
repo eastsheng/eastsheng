@@ -3,7 +3,6 @@
 
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eastsheng&&show_icons=true&theme=radical&v=5&count_private=true" alt="eastsheng's GitHub Stats" />
-  <hr>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastsheng&theme=radical&layout=compact&hide=glsl,python" />
 </p>
 

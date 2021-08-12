@@ -1,6 +1,13 @@
 ## Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=eastsheng&theme=dark)
 
+## 🙈 Statistics
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eastsheng&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastsheng&theme=radical&layout=compact&hide=glsl,python" />
+</p>
+
+
 <!--
 **eastsheng/eastsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

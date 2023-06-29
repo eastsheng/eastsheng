@@ -8,8 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=eastsheng&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/eastsheng?label=Github&style=social)](https://github.com/eastsheng)
 
-<p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eastsheng&&show_icons=true&theme=radical&line_height=31.8&v=5&count_private=true" alt="eastsheng's GitHub Stats" /></p>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=eastsheng&&show_icons=true&theme=radical&line_height=31.8&v=5&count_private=true" alt="eastsheng's GitHub Stats" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastsheng)](https://git.io/streak-stats)
 

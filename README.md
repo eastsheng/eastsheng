@@ -1,30 +1,23 @@
-## Hi there 👋 
+<img src="./figs/hello_world.png" alt="Hello world">
+
+## Hi there 👋  
+<img align="right" alt="light" width="40" src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif">
+
+[![MyWiki](https://img.shields.io/badge/Docs-MyWiki-blue)](https://eastsheng.github.io/MyWikiSite)
+[![Mail](https://img.shields.io/badge/email-eastsheng@hotmail.com-red)](mailto:eastsheng@hotmail.com)
+![](https://komarev.com/ghpvc/?username=eastsheng&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/eastsheng?label=Github&style=social)](https://github.com/eastsheng)
-<!--
-[![Blog](https://img.shields.io/badge/Blog-eastsheng-blue)](https://eastsheng.github.io/)
-[![MyDocs](https://img.shields.io/badge/Docs-MyDocs-red)](https://eastsheng.github.io/MyDocs)
-[![cnblogs](https://img.shields.io/badge/Blog-cnblogs-purple)](https://www.cnblogs.com/eastsheng)
-[![Mail](https://img.shields.io/badge/gmail-eastsheng@hotmail.com-red)](mailto:eastsheng@hotmail.com)
--->
+
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eastsheng&&show_icons=true&theme=radical&line_height=31.8&v=5&count_private=true" alt="eastsheng's GitHub Stats" />
 <!--<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastsheng&theme=radical&layout=compact&hide=glsl,python" />-->
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=eastsheng&theme=onedark)](https://github.com/eastsheng/eastsheng)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eastsheng)](https://git.io/streak-stats)
 
-<!--
-**eastsheng/eastsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://github-readme-stats.vercel.app/api?username=eastsheng&theme=dark)
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/eastsheng/count.svg" />
+  <br>Visitor count
+</p>

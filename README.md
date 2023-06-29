@@ -1,4 +1,4 @@
-<img src="./figs/hello_world.gif" alt="Hello world">
+<img align="center" src="./figs/hello_world.gif" alt="Hello world">
 
 ## Hi there 👋  
 <img align="right" alt="light" width="40" src="https://cdn.pixabay.com/animation/2022/10/12/22/41/22-41-33-918_512.gif">

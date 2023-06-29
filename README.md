@@ -11,7 +11,7 @@
 <!--<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eastsheng&theme=radical&layout=compact&hide=glsl,python" />-->
 </p>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=eastsheng&theme=onedark)](https://github.com/eastsheng/eastsheng)
 
 <!--
 **eastsheng/eastsheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

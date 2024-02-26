@@ -10,7 +10,7 @@
 
 <!--## Hi there 👋  -->
 
-[![MyWiki](https://img.shields.io/badge/Docs-MyWiki-blue)](https://eastsheng.github.io/MyWikiSite)
+[![MyWiki](https://img.shields.io/badge/Docs-MyWiki-blue)](https://eastsheng.github.io/MyWiki)
 [![Mail](https://img.shields.io/badge/email-eastsheng@hotmail.com-red)](mailto:eastsheng@hotmail.com)
 ![](https://komarev.com/ghpvc/?username=eastsheng&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/eastsheng?label=Github&style=social)](https://github.com/eastsheng)
